@@ -1,6 +1,8 @@
 # R teach out
 
-See the: `r_lecture1_handout.pdf` in this repository.
+See the:
+[r_lecture1_handout.pdf](https://github.com/matthew-brett/r-teach-out/raw/master/r_lecture1_handout.pdf)
+in this repository.
 
 ## The introduction tutorial
 
@@ -33,21 +35,18 @@ continue from there.See this video for an explanation, if you get stuck.
 Here's a link to a [short video about getting going with the
 R notebook](https://vimeo.com/319738376).
 
-Download the zip file first_rnb_practice.zip
+Download the zip file
+[first_rnb_practice.zip](https://github.com/matthew-brett/r-teach-out/raw/master/first_rnb_practice.zip).
 
 I suggest you download this file to your Desktop folder.
 
 Extract the files from the zip file.  On Windows, right click on the file and
 choose "Extract all".  Extract to the Desktop folder.  On Mac, find the
 downloaded zip file, open it, and select the option to open with Archive
-Utility. 
+Utility.
 
-In either case, you should have a new file "first_rnb_practice.Rmd".
+In either case, you should have a new file `first_rnb_practice.Rmd`.
 
 Now open R Studio (use the Windows Start Menu in Windows, or Spotlight on Mac).
-When R Studio is open, use the File menu to open the "first_rnb_practice.Rmd"
+When R Studio is open, use the File menu to open the `first_rnb_practice.Rmd`
 file.
-
-See the assignment page at Statistics - Semester 1 Independent Learning
-& Assignment Part 1 for more detail on installing and running R Studio, and
-setting up the R Studio notebook.
